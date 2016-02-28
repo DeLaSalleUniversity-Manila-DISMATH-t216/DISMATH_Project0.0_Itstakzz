@@ -1,6 +1,6 @@
 # DISMATH_Project0.0_Itstakzz
 #Screenshots
 * Designer
-* [[https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_Itstakzz/blob/master/scrn2.PNG]]
+	![Screenshot](scrn1.png)
 * Blocks
 * By takeshi isobe
